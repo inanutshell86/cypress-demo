@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --record --key 205ef904-dfda-4b6f-bb51-bb4016c6c9f4"
   },
   "keywords": [],
   "author": "",
